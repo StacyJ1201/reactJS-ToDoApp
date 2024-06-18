@@ -11,7 +11,7 @@ export default function ToDoList(props) {
                     <p>{todo}</p>
                 </ToDoCard>
             )
-            })};     
+            })}     
     </ul>
   )
 }
